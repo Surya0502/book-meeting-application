@@ -1,5 +1,5 @@
 # Book-meeting-application
-Overview
+
 This project is a web application that enables employees of a company to book meeting rooms efficiently. The application manages a pool of 10 meeting rooms, allowing users to schedule, view, and delete meetings while ensuring proper room utilization.
 
 Features Implemented -
